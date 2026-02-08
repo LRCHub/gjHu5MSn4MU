@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "MARIONETTE",
+  "base_artist": "Boowy",
+  "createdAt": "2026-02-08T14:53:02.862034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm A Marionette",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/01_I'm_A_Marionette_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm a Marionette",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/02_I'm_a_Marionette_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Marionette",
+      "artist": "Make Them Suffer",
+      "has_synced": true,
+      "path": "select/03_Marionette_Make_Them_Suffer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Marionette",
+      "artist": "Soul Asylum",
+      "has_synced": true,
+      "path": "select/04_Marionette_Soul_Asylum.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Marionette",
+      "artist": "Mott the Hoople",
+      "has_synced": false,
+      "path": "select/05_Marionette_Mott_the_Hoople.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm A Marionette",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/06_I'm_A_Marionette_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm A Marionette",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/07_I'm_A_Marionette_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Marionette",
+      "artist": "Art Garfunkel",
+      "has_synced": true,
+      "path": "select/08_Marionette_Art_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Funeral March Of A Marionette",
+      "artist": "Charles Gounod",
+      "has_synced": false,
+      "path": "select/09_Funeral_March_Of_A_Marionette_Charles_Gounod.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here He Comes (Confessions of a Drunken Marionette) [Original Demo]",
+      "artist": "The Wallflowers",
+      "has_synced": false,
+      "path": "select/10_Here_He_Comes_(Confessions_of_a_Drunken_Marionette)_[Original_Demo]_The_Wallflowers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here He Comes (Confessions of a Drunken Marionette) [Original Demo]",
+      "artist": "Jakob Dylan",
+      "has_synced": false,
+      "path": "select/11_Here_He_Comes_(Confessions_of_a_Drunken_Marionette)_[Original_Demo]_Jakob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Marionette",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/12_Marionette_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm A Marionette",
+      "artist": "Ghost",
+      "has_synced": true,
+      "path": "select/13_I'm_A_Marionette_Ghost.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Marionette",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_01_Marionette_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_02_MARIONETTE_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_03_MARIONETTE_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_04_MARIONETTE_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_05_MARIONETTE_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_06_MARIONETTE_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Marionette",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_07_Marionette_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Marionette",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_08_Marionette_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_09_MARIONETTE_BOφWY.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "MARIONETTE",
+      "artist": "BOφWY",
+      "has_synced": false,
+      "path": "select/pl_10_MARIONETTE_BOφWY.txt"
+    }
+  ]
+}
